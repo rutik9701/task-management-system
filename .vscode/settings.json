@@ -17,5 +17,5 @@
             "name": "Local instance MySQL80"
         }
     ],
-    "gitdoc.enabled": true
+    "gitdoc.enabled": false
 }
